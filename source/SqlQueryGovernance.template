@@ -1,7 +1,7 @@
 Description: SQL Query Governance for Amazon Aurora and AWS RDS
 Parameters:
   SubscriptionEmail:
-    Default: user@mail.com
+    Default: user@example.com
     Type: String
 
 Resources:
